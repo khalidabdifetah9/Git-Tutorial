@@ -1,1 +1,1 @@
-console.log("Code");
+console.log("Coding is fun");
